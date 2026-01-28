@@ -76,7 +76,6 @@ body {
   background-color: var(--bg);
   color: var(--fg);
   line-height: 1.6;
-  padding-bottom: var(--footer-height, 0);
 }
 
 /* Default link styling for accessibility on dark background */
